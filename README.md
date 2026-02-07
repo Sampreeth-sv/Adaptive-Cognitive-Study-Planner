@@ -1,4 +1,6 @@
 # Adaptive-Cognitive-Study-Planner
+## An AI-Inspired Adaptive Study Planning System that learns from student progress patterns to optimize cognitive workload.
+
 Behavior-Aware Study Scheduling System for Engineering Students
 Author: Sampreeth S V
 
@@ -10,10 +12,10 @@ Engineering students manage multiple technically demanding subjects with differe
 * Progress slows down
 * Priorities change
 
-This project introduces an Adaptive Cognitive Study Planner that dynamically generates personalized weekly study schedules and evolves based on student learning behavior.
+This project introduces an AI-inspired Adaptive Cognitive Study Planner Planner that dynamically generates personalized weekly study schedules and evolves based on student learning behavior.
 Instead of fixed planning, the system continuously adjusts workload using progress patterns, topic difficulty, and subject importance.
 
-2.Problem Being Solved
+2. Problem Being Solved
 
 Students often:
 * Study hard but not smart
@@ -165,5 +167,11 @@ Unlike static planners, this system evolves with user performance
 🖥️ How to Run
 
 pip install -r requirements.txt
-
 streamlit run app.py
+
+📂 Project Structure
+
+app.py – Main Streamlit application  
+study_plan.json – Local progress storage  
+requirements.txt – Dependencies  
+README.md – Project documentation
