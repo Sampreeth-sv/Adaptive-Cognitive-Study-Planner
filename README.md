@@ -175,3 +175,6 @@ app.py – Main Streamlit application
 study_plan.json – Local progress storage  
 requirements.txt – Dependencies  
 README.md – Project documentation
+
+Demo Video:-
+https://drive.google.com/drive/folders/1j8P2qFCay7ZXD7DdN53CkSoLKb6UbsG9?usp=sharing
